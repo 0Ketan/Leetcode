@@ -1,4 +1,4 @@
-# first_repo
-this is my first repo in github
+# My all Leetcode solutions
+Also learning git and github from this repo
 <br>
-Author - Ketan raju
+Author - B Ketan raju
